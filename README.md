@@ -2,7 +2,7 @@
 
 **PROJECT:** 
 
-In this project, an application was developed that performs manual segmentation in RGB images. It also allows you to edit the segmentation in progress and, finally, saves the segmentation as a binary image. The application was implemented in C ++, using Qt as a graphical UI.
+In this project, an application was developed that performs manual segmentation in RGB images. It also allows you to edit the segmentation in progress and, finally, saves the segmentation as a binary image. The application was implemented in C++, using Qt as a graphical UI.
 
 **FEATURES:** 
 
