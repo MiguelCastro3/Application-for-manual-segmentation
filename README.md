@@ -16,7 +16,7 @@ In this project, an application was developed that performs manual segmentation 
 * [aplicacao.pro](https://github.com/MiguelCastro3/Application-for-manual-segmentation/blob/master/aplicacao.pro) - application project file.
 * [aplicacao.h](https://github.com/MiguelCastro3/Application-for-manual-segmentation/blob/master/aplicacao.h) and [aplicacao.cpp](https://github.com/MiguelCastro3/Application-for-manual-segmentation/blob/master/aplicacao.cpp) - class aplicacao with the code for the back-end of the developed application and connection with the graphics_scene class. 
 * [aplicacao.ui](https://github.com/MiguelCastro3/Application-for-manual-segmentation/blob/master/aplicacao.ui) - interface implemented for the front-end of the final application.
-* [graphics_scene.h](https://github.com/MiguelCastro3/Application-for-manual-segmentation/blob/master/graphics_scene.h) and [graphics_scene.cpp](https://github.com/MiguelCastro3/Application-for-manual-segmentation/blob/master/graphics_scene.pro) - which defines the scene where the items will be viewed and allows the manipulation of it.
+* [graphics_scene.h](https://github.com/MiguelCastro3/Application-for-manual-segmentation/blob/master/graphics_scene.h) and [graphics_scene.cpp](https://github.com/MiguelCastro3/Application-for-manual-segmentation/blob/master/graphics_scene.cpp) - which defines the scene where the items will be viewed and allows the manipulation of it.
 
 
 **RESULTS:** 
